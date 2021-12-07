@@ -11,3 +11,6 @@ _themes*/
 mwgendiff.config
 /.vs
 /.vscode
+
+.fake
+.ionide
